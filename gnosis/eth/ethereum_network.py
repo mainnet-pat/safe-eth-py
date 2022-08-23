@@ -98,6 +98,7 @@ class EthereumNetwork(Enum):
     CRO = 385
     RUPX = 499
     TAO_CORE = 558
+    DOGECHAIN_TESTNET = 568
     METIS_TESTNET = 588
     MACA_TESTNET = 595
     KAR = 686
@@ -128,6 +129,7 @@ class EthereumNetwork(Enum):
     CATECHAIN = 1618
     EURUS_TESTNET = 1984
     EGEM = 1987
+    DOGECHAIN = 2000
     EDG = 2021
     EDG_BERESHEET = 2022
     KORTHO = 2559
