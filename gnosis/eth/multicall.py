@@ -49,6 +49,10 @@ class Multicall:
         EthereumNetwork.XDAI: "0x08612d3C4A5Dfe2FaaFaFe6a4ff712C2dC675bF7",
         EthereumNetwork.FANTOM: "0xD98e3dBE5950Ca8Ce5a4b59630a5652110403E5c",
         EthereumNetwork.AVALANCHE: "0xAbeC56f92a89eEe33F5194Ca4151DD59785c2C74",
+        EthereumNetwork.DOGECHAIN: "0x62D27b8E8Bd1dBa6c163B4758Dedc2A384BF5aE4",
+        EthereumNetwork.DOGECHAIN_TESTNET: "0x0C978b9E4D94698df101092d8616E05b4D10069d",
+        EthereumNetwork.SMARTBCH: "0x3718e9C405D0bC779870355C34fb5624196A1cAA",
+        EthereumNetwork.SMARTBCHTEST_TESTNET: "0xAF15A45d934a83b95daCFEbaACCaED8cF97e8200",
     }
 
     def __init__(
